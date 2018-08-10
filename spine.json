@@ -1,0 +1,13 @@
+{
+    "bg": "#1f2d2d",
+    "fg": "#ffffff",
+    "pos": "#c8ff9b",
+    "neg": "#ffb0b0",
+    "syntax": [
+        "#bdeaff",
+        "#fffca4",
+        "#c8ff9b",
+        "#ffb0b0"
+    ],
+    "ui": "#fffca4"
+}
