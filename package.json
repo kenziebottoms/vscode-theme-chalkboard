@@ -1,22 +1,37 @@
 {
-    "name": "chalkboard-theme",
-    "displayName": "Chalkboard Theme",
-    "description": "An old-fashioned classroom-inspired theme for VS code",
-    "version": "0.0.1",
-    "publisher": "kenziebottoms",
-    "engines": {
-        "vscode": "^1.25.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Chalkboard",
-                "uiTheme": "vs-dark",
-                "path": "./themes/chalkboard.json"
-            }
-        ]
-    }
+  "name": "chalkboard",
+  "displayName": "Chalkboard Theme",
+  "description": "An old-fashioned classroom-inspired theme for VS code",
+  "version": "0.0.1",
+  "publisher": "kenziebottoms",
+  "engines": {
+    "vscode": "^1.25.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Chalkboard",
+        "uiTheme": "vs-dark",
+        "path": "./themes/chalkboard.json"
+      }
+    ]
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenziebottoms/vscode-theme-chalkboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenziebottoms/vscode-theme-chalkboard/issues"
+  },
+  "homepage": "https://github.com/kenziebottoms/vscode-theme-chalkboard#readme"
 }
