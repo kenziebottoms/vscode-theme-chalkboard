@@ -2,7 +2,7 @@
   "name": "chalkboard",
   "displayName": "Chalkboard Theme",
   "description": "An old-fashioned classroom-inspired theme for VS code",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "kenziebottoms",
   "engines": {
     "vscode": "^1.25.0"
